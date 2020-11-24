@@ -5,6 +5,6 @@ const ProjectSchema = new mongoose.Schema({
         description: String,
         goal: String,
         manager: String
-}) 
+})  
 
 module.exports = mongoose.model('Project', ProjectSchema)
