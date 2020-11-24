@@ -1,0 +1,182 @@
+{
+    "projects": [
+      {
+        "name": "DVA API",
+        "description": "Conjunto de APIs na plataforma de dados B3 que fornecem acesso a dados baseado em consultas de baixa latência",
+        "goal": "Oferecer um serviço que envia dados de ofertas e negócios dos mercados de derivativos gerados pela Bolsa.",
+        "manager": "Marco Aurelio Pavann",
+        "id": "1"
+      },
+      {
+        "name": "B3 Investidor",
+        "description": "Conjunto de APIs que fornecem dados row data do DW SI e outras fontes diversas.",
+        "goal": "Oferecer um serviço que envia dados de investidores para o novo portal B3 Investidor.",
+        "manager": "Marco Aurelio Pavan",
+        "id": "2"
+      },
+      {
+        "name": "DVA EVOLUÇÃO DATAWISE",
+        "description": "Publicação do dash de Títulos Públicos, desenvolvimento do dash de BTB e desenvolvimento da API (Splunk)",
+        "goal": "Oferecer um serviço que envia dados do Splunk para as bases de dados do SI DW para crição de relatórios.",
+        "manager": " Marco Aurelio Pavan",
+        "id": "3"
+      },
+      {
+        "name": "SEGUROS ANALYTICS",
+        "description": "Alocação do profissional Cientista de Dados na squad do Projeto Seguro Analytics",
+        "goal": "Atividades ligadas ao Cientista de Dados PROGRESSOS PRÓXIMOS PASSOS",
+        "manager": "Nelson Fernandes Filho",
+        "id": "4"
+      },
+      {
+        "name": "CADASTRO E TARIFAÇÃO",
+        "description": "Alocação dos profissionais DEVs",
+        "goal": "Atividades ligadas ao desenvolvimento do projeto",
+        "manager": "Pedro Wajchman Moriyama",
+        "id": "5"
+      },
+      {
+        "name": "DVA LICENCIAMENTO DE ÍNDICES",
+        "description": "API que consome dados externos da ComDinheiro.",
+        "goal": "Ler dados do fornecedor ComDinheiro, gravar em repositório interno e analisar os fundos que utilizam índice Ibovespa",
+        "manager": "Marco Aurelio Pavan",
+        "id": "wqJ1K5B"
+      },
+      {
+        "name": "Projetos internos GFT",
+        "description": "Projetos internos GFT",
+        "goal": "",
+        "manager": "",
+        "id": "OWGoUWb"
+      }
+    ],
+    "clients": [
+      {
+        "id": "1",
+        "name": "B3"
+      },
+      {
+        "id": "2",
+        "name": "Serasa Experian"
+      },
+      {
+        "id": "3",
+        "name": "Credit Suisse"
+      }
+    ],
+    "tasks": [
+      {
+        "description": "Daily B3",
+        "dateStart": "2020-08-20T10:30:00.000-03:00",
+        "dateFinish": "2020-08-20T11:00:00.000-03:00",
+        "userId": "1",
+        "taskDate": "2020-08-20",
+        "projectId": "OWGoUWb",
+        "id": 4
+      },
+      {
+        "description": "Desenvolvimento Task Manager",
+        "dateStart": "2020-08-20T11:00:00.000-03:00",
+        "dateFinish": "2020-08-20T12:00:00.000-03:00",
+        "userId": "1",
+        "taskDate": "2020-08-20",
+        "projectId": "OWGoUWb",
+        "id": 5
+      },
+      {
+        "description": "Desenvolvimento Task Manager",
+        "dateStart": "2020-08-20T13:00:00.000-03:00",
+        "dateFinish": "2020-08-20T16:00:00.000-03:00",
+        "userId": "1",
+        "taskDate": "2020-08-20",
+        "projectId": "OWGoUWb",
+        "id": 6
+      },
+      {
+        "description": "Reunião Glaucio",
+        "dateStart": "2020-08-20T16:00:00.000-03:00",
+        "dateFinish": "2020-08-20T17:00:00.000-03:00",
+        "userId": "1",
+        "taskDate": "2020-08-20",
+        "projectId": "OWGoUWb",
+        "id": 7
+      },
+      {
+        "description": "Acompanhamento deploy em producao",
+        "dateStart": "2020-08-21T08:00:00.000-03:00",
+        "dateFinish": "2020-08-21T11:30:00.000-03:00",
+        "userId": "1",
+        "taskDate": "2020-08-21",
+        "projectId": "OWGoUWb",
+        "id": 8
+      },
+      {
+        "description": "Reunião alinhamento deploy em produção",
+        "dateStart": "2020-08-21T11:00:00.000-03:00",
+        "dateFinish": "2020-08-21T12:00:00.000-03:00",
+        "userId": "1",
+        "taskDate": "2020-08-21",
+        "projectId": "OWGoUWb",
+        "id": 9
+      },
+      {
+        "description": "Desenvolvimento Task Manager",
+        "dateStart": "2020-08-21T12:45:00.000-03:00",
+        "dateFinish": "2020-08-21T16:00:00.000-03:00",
+        "userId": "1",
+        "taskDate": "2020-08-21",
+        "projectId": "OWGoUWb",
+        "id": 10
+      },
+      {
+        "description": "Daily B3",
+        "dateStart": "2020-08-10T10:30:00.000-03:00",
+        "dateFinish": "2020-08-10T11:00:00.000-03:00",
+        "userId": "1",
+        "taskDate": "2020-08-10",
+        "projectId": "OWGoUWb",
+        "id": 11
+      },
+      {
+        "description": "TESTE",
+        "dateStart": "2020-09-02T09:00:00.000-03:00",
+        "dateFinish": "2020-09-02T09:30:00.000-03:00",
+        "taskDate": "2020-09-02",
+        "projectId": "5",
+        "id": 12
+      },
+      {
+        "description": "TESTE",
+        "dateStart": "2020-09-02T15:00:00.000-03:00",
+        "dateFinish": "2020-09-02T16:00:00.000-03:00",
+        "taskDate": "2020-09-02",
+        "projectId": "3",
+        "id": 13
+      },
+      {
+        "description": "TESTE",
+        "dateStart": "2020-09-03T09:00:00.000-03:00",
+        "dateFinish": "2020-09-03T10:00:00.000-03:00",
+        "taskDate": "2020-09-03",
+        "projectId": "2",
+        "id": 14
+      },
+      {
+        "description": "TESTE",
+        "dateStart": "2020-09-03T14:00:00.000-03:00",
+        "dateFinish": "2020-09-03T15:00:00.000-03:00",
+        "taskDate": "2020-09-03",
+        "projectId": "2",
+        "id": 15
+      }
+    ],
+    "users": [
+      {
+        "id": "1",
+        "email": "glauciomartins2@gmail.com",
+        "name": "Glaucio Martins",
+        "avatar_url": "https://lh3.googleusercontent.com/ogw/ADGmqu_kJDC5LI6vakccZK42Ql0o4XD67WlDjy0dZKEG=s32-c-mo",
+        "current_project": "OWGoUWb"
+      }
+    ]
+  }
